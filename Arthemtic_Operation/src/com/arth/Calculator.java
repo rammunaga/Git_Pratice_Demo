@@ -6,7 +6,7 @@ public class Calculator {
 		
 		int out=sumOfTwoNumbers(1, 2);
 		System.out.println(out);
-		
+		//Hello this is updated by sai krishna
 	}
 	
 	public static int sumOfTwoNumbers(int n1,int n2) {
