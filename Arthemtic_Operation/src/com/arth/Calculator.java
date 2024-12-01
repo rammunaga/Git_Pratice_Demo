@@ -7,7 +7,6 @@ public class Calculator {
 		int out=sumOfTwoNumbers(1, 2);
 		System.out.println(out);
 		
-		System.out.println(isPrime(7));
 	}
 	
 	public static int sumOfTwoNumbers(int n1,int n2) {
